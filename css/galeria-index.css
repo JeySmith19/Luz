@@ -172,6 +172,11 @@ h3
 }
 }
 @media(max-width: 865px){
+    h3
+    {
+        font-size: 15px;
+    }
+    
     .galeria-container .video
     {
         width: 80%;
